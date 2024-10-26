@@ -1,0 +1,11 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "This project is a **Real-Time Weather Monitoring System** that fetches weather data from the **OpenWeatherMap API**. It provides real-time weather information, 5-day forecasts, and features temperature conversion between Celsius, Fahrenheit, and Kelvin. It also calculates daily weather summaries such as average, max, and min temperatures and visualizes temperature trends using Chart.js.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
